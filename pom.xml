@@ -84,10 +84,12 @@
             </roles>
             <timezone/>
             <properties>
+                <sonar.organization>vcatest</sonar.organization>
                 <Donator>Serge was the original donator of the James code, which has since been massively
                     improved by people smarter than him. He tries to answer questions on the listserv and make
                     code
                     contributions when he does get a rare bit of free time.</Donator>
+                
             </properties>
         </developer>
         <developer>
